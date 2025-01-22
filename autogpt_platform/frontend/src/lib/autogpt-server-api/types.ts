@@ -128,6 +128,7 @@ export const PROVIDER_NAMES = {
   EXA: "exa",
   HUBSPOT: "hubspot",
   TWITTER: "twitter",
+  TODOIST: "todoist",
 } as const;
 // --8<-- [end:BlockIOCredentialsSubSchema]
 
